@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/model/dao/DB.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/logout.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/adminManagement.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/addUserAdminAction.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/model/dao/DBConnector.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/addUserAdmin.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/loginAction.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/accessLog.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/editUser.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/registerAction.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/myAccount.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/noUserLogin.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/controller/ConnServlet.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/userManage.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/profile.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/model/Log.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/welcome.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/home.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/logoutAction.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/movieDetails.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/header.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/model/User.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/register.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/src/java/uts/isd/model/dao/DBManager.java</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/index.jsp</file>
+            <file>file:/Users/william/Desktop/OMSProject-master%202/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
